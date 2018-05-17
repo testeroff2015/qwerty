@@ -4,3 +4,6 @@ python:
   - "3.5"
 
 script: python -m unittest
+
+notifications:
+  slack: kvigga:uMKLSA2AH0TpW82XS6E5OiWk
